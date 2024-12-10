@@ -7,6 +7,7 @@
                 <li>
                         <strong>Unit Conversion Support:</strong>
                         Users can input values in either metric or imperial units, and the application handles the necessary conversions automatically.
+                        <br>
                         <ul>
                                 <li>Metric units: kilograms (kg) for weight and centimeters (cm) for height.</li>
                                 <li>Imperial units: pounds (lb) for weight and feet/inches (ft/in) for height.</li>
