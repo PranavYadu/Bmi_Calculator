@@ -22,4 +22,5 @@
                     In case of invalid data entry (such as missing height or weight), the system provides clear error messages to guide the user.
                 </li>
         </ul>
-<p><strong>BMI Formula:</strong> BMI = weight (kg) / height (m)<sup>2</sup></p>
+<h2>BMI Formula :-</h2>
+BMI = <span>weight (kg)</span> / <span>height (m)<sup>2</sup>
