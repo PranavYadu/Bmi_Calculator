@@ -1,4 +1,4 @@
-# Bmi_Calculator
+# Bmi Calculator
 <p>
         The BMI Calculator is designed to address the challenges of manual BMI computation by offering a reliable, user-friendly solution.
 </p>
