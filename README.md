@@ -1,8 +1,8 @@
-# Bmi_Calculator
+<h1>Bmi_Calculator</h1>
 <p>
         The BMI Calculator is designed to address the challenges of manual BMI computation by offering a reliable, user-friendly solution.
 </p>
-<h3>Core Functionality</h3>
+<h2>Core Functionality</h2>
         <ul>
                 <li>
                         <strong>Unit Conversion Support:</strong>
@@ -24,3 +24,6 @@
         </ul>
 <h2>BMI Formula :-</h2>
 BMI = <span>weight (kg)</span> / <span>height (m)<sup>2</sup>
+$$
+BMI = \frac{\text{Weight (kg)}}{\text{Height (m)}^2}
+$$
