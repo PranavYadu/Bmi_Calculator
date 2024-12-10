@@ -3,7 +3,7 @@
         The BMI Calculator is designed to address the challenges of manual BMI computation 
         by offering a reliable, user-friendly solution.
     </p>
-    <b>Core Functionality</b>
+    <p style="font-size: 24px; font-weight: bold;">Core Functionality</p>
     <ul>
         <li>
             <strong>Unit Conversion Support:</strong> 
