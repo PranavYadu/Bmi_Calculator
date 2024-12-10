@@ -1,4 +1,4 @@
-* Bmi_Calculator
+# Bmi_Calculator
 <p>
         The BMI Calculator is designed to address the challenges of manual BMI computation by offering a reliable, user-friendly solution.
 </p>
@@ -22,5 +22,6 @@
                     In case of invalid data entry (such as missing height or weight), the system provides clear error messages to guide the user.
                 </li>
         </ul>
-** BMI Formula :-
+## BMI Formula :-
+
 $$ BMI = {weight \over height^2} $$
