@@ -23,4 +23,4 @@
                 </li>
         </ul>
 <h2>BMI Formula :-</h2>
-$$ BMI = weight \over height^2 $$
+$$ BMI = {weight \over height^2} $$
