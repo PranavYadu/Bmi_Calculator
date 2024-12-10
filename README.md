@@ -26,5 +26,10 @@ $$ BMI = {weight(kg) \over height(m)^2} $$
                     <strong>Error Handling:</strong> 
                     In case of invalid data entry (such as missing height or weight), the system provides clear error messages to guide the user.
                 </li>
+                <p></p>
+                <li>
+                        <strong>Exporting Result:</strong>
+                        Users can choose to export the calculated BMI results to a text file in ASCII format for recordkeeping or future reference.
+                </li>
         </ul>
 
