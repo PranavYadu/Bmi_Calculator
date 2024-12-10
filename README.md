@@ -10,18 +10,15 @@ $$ BMI = {weight(kg) \over height(m)^2} $$
                 <li>
                         <strong>Unit Conversion Support:</strong>
                         Users can input values in either metric or imperial units, and the application handles the necessary conversions automatically.
-                        
                         <ul>
                                 <li>**Metric units:** kilograms (kg) for weight and centimeters (cm) for height.</li>
                                 <li>**Imperial units:** pounds (lb) for weight and feet/inches (ft/in) for height.</li>
                         </ul>
                 </li>
-                
                 <li>
                     <strong>BMI Categorization:</strong> 
                     The application classifies the result into categories like underweight, normal weight, overweight, and obese, providing clear insights into the user’s health status.
                 </li>
-                
                 <li>
                     <strong>Error Handling:</strong> 
                     In case of invalid data entry (such as missing height or weight), the system provides clear error messages to guide the user.
