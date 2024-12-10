@@ -13,6 +13,10 @@ The core functionality of the BMI Calculator includes :-
                 </li>
             </ul>
     </li>
-    <li>BMI Categorization: The application classifies the result into categories like underweight, normal weight, overweight, and obese, providing clear insights into the user’s health status.</li>
-    <li>Error Handling: The tool validates user inputs to prevent incorrect or incomplete data from being processed.</li>
+    <li>
+        BMI Categorization: The application classifies the result into categories like underweight, normal weight, overweight, and obese, providing clear insights into the user’s health status.
+    </li>
+    <li>
+        Error Handling: The tool validates user inputs to prevent incorrect or incomplete data from being processed.
+    </li>
 </ol>
