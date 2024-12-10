@@ -2,6 +2,9 @@
 <p>
         The BMI Calculator is designed to address the challenges of manual BMI computation by offering a reliable, user-friendly solution.
 </p>
+<h3>BMI Formula :-</h3>
+
+$$ BMI = {weight \over height^2} $$
 <h2>Core Functionality</h2>
         <ul>
                 <li>
@@ -22,6 +25,4 @@
                     In case of invalid data entry (such as missing height or weight), the system provides clear error messages to guide the user.
                 </li>
         </ul>
-## BMI Formula :-
 
-$$ BMI = {weight \over height^2} $$
